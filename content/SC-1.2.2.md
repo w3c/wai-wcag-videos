@@ -1,0 +1,65 @@
+---
+title: "SC 1.2.2 in WCAG 2 Videos"
+
+lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+github:
+  repository: w3c/wai-wcag-videos
+  path: content/SC-1.2.2.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+permalink: /SC-1.2.2/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+
+ref: /link/to/page/   # Translators, do not change this
+changelog: /@@/changelog/
+acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
+license: creative-commons   # NEW: delete if not creative-commons
+
+description:  # NEW: add a 150ish-character-description for social media   # translate the description
+image: /content-images/wai-wcag-videos/social.png  # NEW: image for social media
+feedbackmail: wai@w3.org  # NEW: delete this line if it’s an EOWG resource (the default is wai-eo-editors@w3.org)
+
+# NEW: Footer below has several options, and not all will be relevant for specific pages. (Ask Shawn if questions.)
+
+footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
+   <p><strong>Date:</strong> Updated @@ Month 2021. First published Month 20@@. CHANGELOG.</p>
+   <p><strong>Editors:</strong> @@name, @@name. <strong>Contributors:</strong> @@name, @@name, and <a href=”https://www.w3.org/groups/wg/@@wg/participants”>participants of the @@WG</a>. ACKNOWLEDGEMENTS lists contributors and credits.</p>
+   <p>Developed by the @@ Working Group (<a href="http://www.w3.org/WAI/@@/">@@WG</a>). Developed as part of the <a href="https://www.w3.org/WAI/@@/">WAI-@@ project</a>, @@co-funded by the European Commission.</p>
+
+---
+
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This page provides the script for Success Criterion 1.2.2 of the WCAG 2 Videos.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Background
+
+*Update the following links for the respective Success Criterion*
+
+* [Success Criterion 1.2.2](https://www.w3.org/TR/WCAG22/#captions-prerecorded)
+* [Understanding SC 1.2.2](https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html)
+* [Script Outline for SC 1.2.2](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements#SC1-2-2)
+* [Survey Results for SC 1.2.2](https://www.w3.org/2002/09/wbs/35532/Videos_WCAG_Squirrel/results#xSC122)
+
+## Notes
+
+* Initial description: Person who is hard of hearing is provided with captions for a video with audio
+* Updated description: [https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent Martine] (from How People with Disabilities Use the Web) experiencing good captions, no captions, and automatic captions, as she follows an online course. Key aspects of [https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html Understanding 1.2.2], such as indicating audio information, is also presented.
+* Addresses issues [#1](https://github.com/w3c/wai-wcag-videos/issues/1), [#2](https://github.com/w3c/wai-wcag-videos/issues/2), [#3](https://github.com/w3c/wai-wcag-videos/issues/3), [#13](https://github.com/w3c/wai-wcag-videos/issues/13)
+* Added "which her hearing aid does not always convey" to Scene 3 (for clarification of the limitations of some hearing aids and for description of the earlier visual cue)
+
+## Script
+
+| Scene | Time | Audio | Visual |
+| ----- | ---- | ----- | ------ |
+| 1 | 0:00 - 0:09 | Martine is 62 years old and has been hard of hearing since birth. She can hear some sounds, but not enough to understand speech. | Frontal view of Martine's face moving around and away from her, to see her from behind sitting at a desk and working on a computer. She has a hearing aid that is visible from this angle. (similar approach to [https://www.w3.org/WAI/perspective-videos/captions/ Captions - Perspectives Video]) |
+| 2 | 0:09 - 0:19 | She is currently a student again, taking online college courses. Most course videos have captions, which Martine uses to understand what is being said. | Zoom in on computer screen to find a video playing. Zoom further to the captions appearing in the video. |
+| 3 | 0:19 - 0:27 | The captions also convey important audio information, such as clapping and who is speaking, which her hearing aid does not always convey. | Clapping and switch of speakers indicated in the captions, reflecting the video playing |
+| 4 | 0:27 - 0:34 | Unfortunately some videos do not have captions, making it impossible for Martine to follow the course. | Martine opens another video and tries clicking the disabled closed captions button. Martine looks puzzled/upset. |
+| 5 | 0:34 - 0:40 | And automatic captioning is often inaccurate because of all the technical jargon it doesn't recognize. | Martine clicks (staged) auto-caption button, and garbled captions are displayed. |
+| 6 | 0:40 - 0:46 | Thankfully the university is now adding captions to all the videos that Martine has in her course. | Reverse of scene 1: view from behind Martine sitting at her desk and watching a video moves around to see frontal view of Martine's face -- she is happy/smiling. |
