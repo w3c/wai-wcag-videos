@@ -1,5 +1,5 @@
 ---
-title: "Success Criterion X.Y.Z in WCAG 2 Videos"
+title: "SC X.Y.Z in WCAG 2 Videos"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with month in the middle)
