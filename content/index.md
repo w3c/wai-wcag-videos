@@ -57,7 +57,7 @@ This page lists the scripts available for the WCAG 2 Videos. Use the [template f
 ### 1.2 Time-based Media
 
 * 1.2.1 Audio-only and Video-only (Prerecorded)
-* 1.2.2 Captions (Prerecorded)
+* [1.2.2 Captions (Prerecorded)](https://wai-wcag-videos.netlify.app/sc-1.2.2/)
 * 1.2.3 Audio Description or Media Alternative (Prerecorded)
 * 1.2.4 Captions (Live)
 * 1.2.5 Audio Description (Prerecorded)
