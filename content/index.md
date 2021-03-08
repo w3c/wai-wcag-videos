@@ -1,31 +1,13 @@
 ---
-# NEW: Comments for new repos start with "NEW". Please delete the NEW comments. Leave the other comments for translators. Also, search for @@s to replace. For multi-page resources and other frontmatter info, see: https://wai-website-theme.netlify.app/writing/frontmatter/
-
-# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
-
 title: "WCAG 2 Videos"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-# translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
-# contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
-
 github:
   repository: w3c/wai-wcag-videos
   path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /Overview/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
-
-# NEW: 3 navigation lines below are only needed for multi-page resources where you have previous and next at the bottom. If so, un-comment them; otherwise delete these lines.
-# navigation:
-  # previous: /path/to/previous/file/
-  # next: /path/to/next/file/
-# @@SLH To Do: figure out if need to add lang here, too, and if this replaces "order" from older resources?
 
 ref: /link/to/page/   # Translators, do not change this
 changelog: /@@/changelog/
