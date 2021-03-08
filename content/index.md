@@ -31,7 +31,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page lists the scripts available for the WCAG 2 Videos. Use the [template file](SC-X-Y-Z) to create new scripts.
+This page lists the scripts available for the WCAG 2 Videos. Use the [template file](SC-X.Y.Z) to create new scripts.
 
 {::nomarkdown}
 {% include box.html type="end" %}
