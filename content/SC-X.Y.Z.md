@@ -42,7 +42,7 @@ This page provides the script for Success Criterion X.Y.Z of the WCAG 2 Videos.
 *Update the following links for the respective Success Criterion*
 
 * [Success Criterion X.Y.Z](https://www.w3.org/TR/WCAG22/#SC-SHORTNAME)
-* [Understanding SC X.Y.Z](https://www.w3.org/WAI/WCAG22/Understanding/SC-SHORTNAME.html
+* [Understanding SC X.Y.Z](https://www.w3.org/WAI/WCAG22/Understanding/SC-SHORTNAME.html)
 * [Script Outline for SC X.Y.Z](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements#SCX-Y-Z)
 * [Survey Results for SC X.Y.Z](https://www.w3.org/2002/09/wbs/35532/Videos_WCAG_Squirrel/results#xSCXYZ)
 
@@ -52,7 +52,7 @@ This page provides the script for Success Criterion X.Y.Z of the WCAG 2 Videos.
 
 ## Script
 
-! Scene | Time | Audio | Visual |
+| Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
 | 1 | 0:00 - 0:@@ | description of audio content | description of video track |
 | 2 | 0:@@ - @:@@ | description of audio content | description of video track |
