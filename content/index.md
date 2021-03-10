@@ -52,11 +52,41 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 ### Martine (She)
 
+[Martine](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent) from How People with Disabilities Use the Web.
+
+* 62 years old
 * Hard of hearing
 * Since birth
 * Can hear some sounds
 * Wears hearing aid
 * Uses captions
+
+### Jefferey (He)
+
+*Not* from How People with Disabilities Use the Web.
+
+* Older male
+* Mild dimentia
+* Difficulty remembering certain things right away
+* Uses post-it notes
+
+### Manti (She)
+
+*Not* from How People with Disabilities Use the Web.
+
+* Young female
+* Vestibular disorder
+* Nauseous and dizzy from certain types of animations
+
+### Alex (He)
+
+[Alex](https://www.w3.org/WAI/people-use-web/user-stories/#reporter) from How People with Disabilities Use the Web.
+
+* Working as reporter since 20 years
+* Repetitive strain injury
+* Painful to use a mouse and to type for extended periods of time
+* Uses an ergonomic keyboard
+* Uses Tab-key to navigate
 
 ## 1. Perceivable
 
@@ -116,14 +146,14 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 * 2.2.2 Pause, Stop, Hide
 * 2.2.3 No Timing
 * 2.2.4 Interruptions
-* 2.2.5 Re-authenticating
+* [2.2.5 Re-authenticating](https://wai-wcag-videos.netlify.app/sc-2.2.5/)
 * 2.2.6 Timeouts
 
 ### 2.3 Seizures and Physical Reactions
 
 * 2.3.1 Three Flashes or Below Threshold
 * 2.3.2 Three Flashes
-* 2.3.3 Animation from Interactions
+* [2.3.3 Animation from Interactions](https://wai-wcag-videos.netlify.app/sc-2.3.3/)
 
 ### 2.4 Navigable
 
@@ -133,7 +163,7 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 * 2.4.4 Link Purpose (In Context)
 * 2.4.5 Multiple Ways
 * 2.4.6 Headings and Labels
-* 2.4.7 Focus Visible
+* [2.4.7 Focus Visible](https://wai-wcag-videos.netlify.app/sc-2.4.7/)
 * 2.4.8 Location
 * 2.4.9 Link Purpose (Link Only)
 * 2.4.10 Section Headings
