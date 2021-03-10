@@ -50,9 +50,8 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 ## Personas
 
-### Martine
+### Martine (She)
 
-* She/her
 * Hard of hearing
 * Since birth
 * Can hear some sounds
