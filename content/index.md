@@ -31,7 +31,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page lists the scripts available for the WCAG 2 Videos. Use the [template file](https://wai-wcag-videos.netlify.app/sc-x.y.z/) to create new scripts.
+This page lists the scripts available for the WCAG 2 Videos, and the personas featured in these scripts. Use the [template file](https://wai-wcag-videos.netlify.app/sc-x.y.z/) to create new scripts.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -47,6 +47,17 @@ This page lists the scripts available for the WCAG 2 Videos. Use the [template f
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
+
+## Personas
+
+### Martine
+
+* She/her
+* Hard of hearing
+* Since birth
+* Can hear some sounds
+* Wears hearing aid
+* Uses captions
 
 ## 1. Perceivable
 
