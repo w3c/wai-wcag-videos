@@ -39,8 +39,6 @@ This page provides the script for Success Criterion 2.4.7 of the [WCAG 2 Videos]
 
 ## Background
 
-*Update the following links for the respective Success Criterion*
-
 * [Success Criterion 2.4.7](https://www.w3.org/TR/WCAG22/#focus-visible)
 * [Understanding SC 2.4.7](https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html)
 * [Script Outline for SC 2.4.7](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements#SC2-4-7)
@@ -49,7 +47,7 @@ This page provides the script for Success Criterion 2.4.7 of the [WCAG 2 Videos]
 ## Notes
 
 * Initial description:  Person with motor disabilities using keyboard (without assistive technology) to navigate always knows which input element currently has focus
-* Updated description: [Alex](https://www.w3.org/WAI/people-use-web/user-stories/#reporter) (from How People with Disabilities Use the Web) experiencing good and bad focus indicators while navigating websites via keyboard.
+* Updated description: [Alex](https://wai-wcag-videos.netlify.app/overview/#alex-he) experiencing good and bad focus indicators while navigating websites via keyboard.
 * Addresses issues [#12](https://github.com/w3c/wai-wcag-videos/issues/12)
 * Changed concept from "turning off animations" as a solution to "using a different app"
 
