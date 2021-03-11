@@ -39,8 +39,6 @@ This page provides the script for Success Criterion 2.2.5 of the [WCAG 2 Videos]
 
 ## Background
 
-*Update the following links for the respective Success Criterion*
-
 * [Success Criterion 2.2.5](https://www.w3.org/TR/WCAG22/#re-authenticating)
 * [Understanding SC 2.2.5](https://www.w3.org/WAI/WCAG22/Understanding/re-authenticating.html)
 * [Script Outline for SC 2.2.5](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements#SC2-2-5)
@@ -49,6 +47,7 @@ This page provides the script for Success Criterion 2.2.5 of the [WCAG 2 Videos]
 ## Notes
 
 * Initial description: Person with dementia logging in again after timeout finds all the previously input data
+* Updated description: [Jeffery](https://wai-wcag-videos.netlify.app/overview/#jefferey-he), has dementia, logging in again after timeout finds all the previously input data
 * Addresses issues [#4](https://github.com/w3c/wai-wcag-videos/issues/4), [#5](https://github.com/w3c/wai-wcag-videos/issues/5), [#6](https://github.com/w3c/wai-wcag-videos/issues/6), [#7](https://github.com/w3c/wai-wcag-videos/issues/7)
 
 ## Script
