@@ -39,8 +39,6 @@ This page provides the script for Success Criterion 2.3.3 of the [WCAG 2 Videos]
 
 ## Background
 
-*Update the following links for the respective Success Criterion*
-
 * [Success Criterion 2.3.3](https://www.w3.org/TR/WCAG22/#animation-from-interactions)
 * [Understanding SC 2.3.3](https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html)
 * [Script Outline for SC 2.3.3](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements#SC2-3-3)
@@ -49,7 +47,7 @@ This page provides the script for Success Criterion 2.3.3 of the [WCAG 2 Videos]
 ## Notes
 
 * Initial description: Person with vestibular disorder can turn off motion animations to avoid nausea
-* Updated description: Person with vestibular disorder can turn off motion animations that are triggered by interaction
+* Updated description: [Manti](https://wai-wcag-videos.netlify.app/overview/#manti-she), has vestibular disorder, can turn off motion animations that are triggered by interaction
 * Addresses issues [#12](https://github.com/w3c/wai-wcag-videos/issues/12)
 * Changed concept from "turning off animations" as a solution to "using a different app"
 
