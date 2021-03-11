@@ -39,8 +39,6 @@ This page provides the script for Success Criterion 1.2.2 of the [WCAG 2 Videos]
 
 ## Background
 
-*Update the following links for the respective Success Criterion*
-
 * [Success Criterion 1.2.2](https://www.w3.org/TR/WCAG22/#captions-prerecorded)
 * [Understanding SC 1.2.2](https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html)
 * [Script Outline for SC 1.2.2](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements#SC1-2-2)
@@ -49,7 +47,7 @@ This page provides the script for Success Criterion 1.2.2 of the [WCAG 2 Videos]
 ## Notes
 
 * Initial description: Person who is hard of hearing is provided with captions for a video with audio
-* Updated description: [Martine](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent) (from How People with Disabilities Use the Web) experiencing good captions, no captions, and automatic captions, as she follows an online course. Key aspects of the SC, such as indicating audio information, is also presented.
+* Updated description: [Martine](https://wai-wcag-videos.netlify.app/overview/#martine-she) experiencing good captions, no captions, and automatic captions, as she follows an online course. Key aspects of the SC, such as indicating audio information, is also presented.
 * Addresses issues [#1](https://github.com/w3c/wai-wcag-videos/issues/1), [#2](https://github.com/w3c/wai-wcag-videos/issues/2), [#3](https://github.com/w3c/wai-wcag-videos/issues/3), [#13](https://github.com/w3c/wai-wcag-videos/issues/13)
 * Added "which her hearing aid does not always convey" to Scene 3 (for clarification of the limitations of some hearing aids and for description of the earlier visual cue)
 
