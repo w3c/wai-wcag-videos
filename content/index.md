@@ -131,11 +131,14 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 * Has cerebral palsy
 * Uses tablet mounted on wheelchair
+* Uses power chair
+* Has personal assistant
 
 ### Xeena (He)
 
 *No related WAI persona identified.*
 
+* School age
 * Language processing disability
 * Uses Augmentative and Alternative Communication (AAC) symbols
 
