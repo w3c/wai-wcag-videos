@@ -61,9 +61,9 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 * Wears hearing aid
 * Uses captions
 
-### Jefferey (He)
+### Gopal (He)
 
-*Not* from How People with Disabilities Use the Web.
+[Gopal](https://w3c.github.io/coga/content-usable/#gopal-a-retired-lawyer-with-dementia) from Making Content Usable
 
 * Older male
 * Mild dimentia
@@ -72,7 +72,7 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 ### Manti (She)
 
-*Not* from How People with Disabilities Use the Web.
+*No related WAI persona identified.*
 
 * Young female
 * Vestibular disorder
@@ -87,6 +87,57 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 * Painful to use a mouse and to type for extended periods of time
 * Uses an ergonomic keyboard
 * Uses Tab-key to navigate
+
+### Ilya (She)
+
+[Ilya](https://www.w3.org/WAI/people-use-web/user-stories/#accountant) from How People with Disabilities Use the Web.
+
+* Senior accountant
+* Blind
+* Does *not* use Braille
+* Uses screen reader
+* Uses mobile phone
+
+### Preety (She)
+
+[Preety](https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent) from How People with Disabilities Use the Web.
+
+* Middle school student
+* Attention defecit hyperactivity disorder
+* Dyslexia
+* Dyscalculia (added here; not mentioned in How People with Disabilities Use the Web)
+* Substantial difficulty reading
+* Uses text-to-speech with text highlight
+
+### Kaseem (She)
+
+[Kaseem](https://www.w3.org/WAI/people-use-web/user-stories/#teenager) from How People with Disabilities Use the Web.
+
+* Teenager
+* Deaf and (legally) blind
+* Uses screen magnification
+* Uses screen reader
+* Uses portable Braille notetaker
+* Uses Braille
+* Does *not* use sign-language
+* Uses large computer screen
+* Uses high contrast (luminosity/brightness)
+* Uses mobile phone
+* Uses indoor navigation
+
+### Jan (He)
+
+*No related WAI persona identified.*
+
+* Has cerebral palsy
+* Uses tablet mounted on wheelchair
+
+### Xeena (He)
+
+*No related WAI persona identified.*
+
+* Language processing disability
+* Uses Augmentative and Alternative Communication (AAC) symbols
 
 ## 1. Perceivable
 
@@ -108,12 +159,12 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 ### 1.3 Adaptable
 
-* 1.3.1 Info and Relationships
-* 1.3.2 Meaningful Sequence
-* 1.3.3 Sensory Characteristics
-* 1.3.4 Orientation
-* 1.3.5 Identify Input Purpose
-* 1.3.6 Identify Purpose
+* [1.3.1 Info and Relationships](https://wai-wcag-videos.netlify.app/sc-1.3.1/)
+* [1.3.2 Meaningful Sequence](https://wai-wcag-videos.netlify.app/sc-1.3.2/)
+* [1.3.3 Sensory Characteristics](https://wai-wcag-videos.netlify.app/sc-1.3.3/)
+* [1.3.4 Orientation](https://wai-wcag-videos.netlify.app/sc-1.3.4/)
+* [1.3.5 Identify Input Purpose](https://wai-wcag-videos.netlify.app/sc-1.3.5/)
+* [1.3.6 Identify Purpose](https://wai-wcag-videos.netlify.app/sc-1.3.6/)
 
 ### 1.4 Distinguishable
         
