@@ -59,6 +59,6 @@ This page provides the script for Success Criterion 2.4.7 of the [WCAG 2 Videos]
 | 2 | 0:12 - 0:21 | He uses an ergonomic keyboard to browse websites and to type. Specifically, he uses the Tab-key to move from one form field to the next. | Zoom to show the ergonomic keyboard. He is not typing anymore but using the Tab-key to move through a form with many entries. |
 | 3 | 0:21 - 0:30 | Good websites indicate the currently active form field, for example as a clearly visible rectangle around the form field. | We see the screen and a clear focus indicator moving from one form field to the next as he presses the Tab-key. |
 | 4 | 0:30 - 0:38 | Some websites do not provide such indicators, which makes it difficult for him to know where the focus is on the form. | Same scene with another website with no focus indicator. Alex looks confused/lost then dismayed/frustrated (he is tapping the tab key but not seeing the indicator on the screen). |
-| 5 | 0:38 - 0:46 | Alex can use websites with clear focus indicators much more effectively, and avoids others where he can. | Back to the website with good focus indicator; we see Alex happier while using the Tab-key and typing away on his computer. |
+| 5 | 0:38 - 0:46 | Alex can use websites with clear focus indicators much more effectively, and avoids sites with no indicators whenever possible. | Back to the website with good focus indicator; we see Alex happier while using the Tab-key and typing away on his computer. |
 
 
