@@ -48,8 +48,7 @@ This page provides the script for Success Criterion 1.2.2 of the [WCAG 2 Videos]
 
 * Initial description: Person who is hard of hearing is provided with captions for a video with audio
 * Updated description: [Martine](https://wai-wcag-videos.netlify.app/overview/#martine-she) experiencing good captions, no captions, and automatic captions, as she follows an online course. Key aspects of the SC, such as indicating audio information, is also presented.
-* Addresses issues [#1](https://github.com/w3c/wai-wcag-videos/issues/1), [#2](https://github.com/w3c/wai-wcag-videos/issues/2), [#3](https://github.com/w3c/wai-wcag-videos/issues/3), [#13](https://github.com/w3c/wai-wcag-videos/issues/13)
-* Added "which her hearing aid does not always convey" to Scene 3 (for clarification of the limitations of some hearing aids and for description of the earlier visual cue)
+* Related: [Captions - Perspectives Video](https://www.w3.org/WAI/perspective-videos/captions/)
 
 ## Script
 
