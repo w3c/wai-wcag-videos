@@ -76,6 +76,8 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 * Young female
 * Vestibular disorder
+* Photosensitivety
+* Migranes from flashing/flickering content
 * Nauseous and dizzy from certain types of animations
 
 ### Alex (He)
@@ -87,6 +89,7 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 * Painful to use a mouse and to type for extended periods of time
 * Uses an ergonomic keyboard
 * Uses Tab-key to navigate
+* Uses speech recognition
 
 ### Ilya (She)
 
@@ -129,10 +132,25 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 *No related WAI persona identified.*
 
-* Has cerebral palsy
+* Cerebral palsy
 * Uses tablet mounted on wheelchair
 * Uses power chair
 * Has personal assistant
+
+### Niando (She)
+
+*No related WAI persona identified.*
+
+* Muscular Dystrophy
+* Uses sip-and-puff system
+* Uses speech recognition
+
+### Brami (He)
+
+*No related WAI persona identified.*
+
+* Quadriplegic
+* Uses mouth stick to type
 
 ### Xeena (He)
 
@@ -189,10 +207,10 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 ### 2.1 Keyboard Accessible
 
-* 2.1.1 Keyboard
-* 2.1.2 No Keyboard Trap
-* 2.1.3 Keyboard (No Exception)
-* 2.1.4 Character Key Shortcuts
+* [2.1.1 Keyboard](https://wai-wcag-videos.netlify.app/sc-2.1.1/)
+* [2.1.2 No Keyboard Trap](https://wai-wcag-videos.netlify.app/sc-2.1.2/)
+* [2.1.3 Keyboard (No Exception)](https://wai-wcag-videos.netlify.app/sc-2.1.3/)
+* [2.1.4 Character Key Shortcuts](https://wai-wcag-videos.netlify.app/sc-2.1.4/)
 
 ### 2.2 Enough Time
 
@@ -205,8 +223,8 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 
 ### 2.3 Seizures and Physical Reactions
 
-* 2.3.1 Three Flashes or Below Threshold
-* 2.3.2 Three Flashes
+* [2.3.1 Three Flashes or Below Threshold](https://wai-wcag-videos.netlify.app/sc-2.3.1/)
+* [2.3.2 Three Flashes](https://wai-wcag-videos.netlify.app/sc-2.3.2/)
 * [2.3.3 Animation from Interactions](https://wai-wcag-videos.netlify.app/sc-2.3.3/)
 
 ### 2.4 Navigable
