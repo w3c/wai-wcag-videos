@@ -48,6 +48,9 @@ This page provides the script for Success Criterion 2.3.3 of the [WCAG 2 Videos]
 
 * Initial description: Person with vestibular disorder can turn off motion animations to avoid nausea
 * Updated description: [Manti](https://wai-wcag-videos.netlify.app/overview/#manti-she), has vestibular disorder, can turn off motion animations that are triggered by interaction
+* Related scripts:
+    * [2.3.1 Three Flashes or Below Threshold](https://wai-wcag-videos.netlify.app/sc-2.3.1/)
+    * [2.3.2 Three Flashes](https://wai-wcag-videos.netlify.app/sc-2.3.2/)
 
 ## Script
 
