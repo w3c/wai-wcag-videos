@@ -48,8 +48,6 @@ This page provides the script for Success Criterion 2.4.7 of the [WCAG 2 Videos]
 
 * Initial description:  Person with motor disabilities using keyboard (without assistive technology) to navigate always knows which input element currently has focus
 * Updated description: [Alex](https://wai-wcag-videos.netlify.app/overview/#alex-he) experiencing good and bad focus indicators while navigating websites via keyboard.
-* Addresses issues [#12](https://github.com/w3c/wai-wcag-videos/issues/12)
-* Changed concept from "turning off animations" as a solution to "using a different app"
 
 ## Script
 
