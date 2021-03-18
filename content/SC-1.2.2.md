@@ -48,7 +48,7 @@ This page provides the script for Success Criterion 1.2.2 of the [WCAG 2 Videos]
 
 * Initial description: Person who is hard of hearing is provided with captions for a video with audio
 * Updated description: [Martine](https://wai-wcag-videos.netlify.app/overview/#martine-she) experiencing good captions, no captions, and automatic captions, as she follows an online course. Key aspects of the SC, such as indicating audio information, is also presented.
-* Related: [Captions - Perspectives Video](https://www.w3.org/WAI/perspective-videos/captions/)
+* Related video: [Captions - Perspectives Video](https://www.w3.org/WAI/perspective-videos/captions/)
 
 ## Script
 
