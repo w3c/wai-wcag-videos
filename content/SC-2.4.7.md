@@ -48,15 +48,20 @@ This page provides the script for Success Criterion 2.4.7 of the [WCAG 2 Videos]
 
 * Initial description:  Person with motor disabilities using keyboard (without assistive technology) to navigate always knows which input element currently has focus
 * Updated description: [Alex](https://wai-wcag-videos.netlify.app/overview/#alex-he) experiencing good and bad focus indicators while navigating websites via keyboard.
+* Related videos:
+    * [Keyboard - Perspectives Video](https://www.w3.org/WAI/perspective-videos/keyboard/)
+    * [Speech Recognition - Perspectives Video](https://www.w3.org/WAI/perspective-videos/voice/)
+* Related scripts:
+    * [2.1.1 Keyboard](https://wai-wcag-videos.netlify.app/sc-2.1.1/)
+    * [2.1.3 Keyboard (No Exception)](https://wai-wcag-videos.netlify.app/sc-2.1.3/)
+    * [2.1.4 Character Key Shortcuts](https://wai-wcag-videos.netlify.app/sc-2.1.4/)
 
 ## Script
 
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
 | 1 | 0:00 - 0:12 | Alex has worked as a reporter for more than 20 years and has developed a repetitive strain injury that makes it painful to use a mouse and to type for extended periods of time. | Alex sitting in an office and working on a desktop computer. He flexes his wrists to relieve discomfort from typing. |
-| 2 | 0:12 - 0:21 | He uses an ergonomic keyboard to browse websites and to type. Specifically, he uses the Tab-key to move from one form field to the next. | Zoom to show the ergonomic keyboard. He is not typing anymore but using the Tab-key to move through a form with many entries. |
+| 2 | 0:12 - 0:21 | He uses an ergonomic keyboard to browse websites and to type short pieces of text. Specifically, he uses the Tab-key to move from one form field to the next. | Zoom to show the ergonomic keyboard. He is not typing anymore but using the Tab-key to move through a form with many entries. |
 | 3 | 0:21 - 0:30 | Good websites indicate the currently active form field, for example as a clearly visible rectangle around the form field. | We see the screen and a clear focus indicator moving from one form field to the next as he presses the Tab-key. |
 | 4 | 0:30 - 0:38 | Some websites do not provide such indicators, which makes it difficult for him to know where the focus is on the form. | Same scene with another website with no focus indicator. Alex looks confused/lost then dismayed/frustrated (he is tapping the tab key but not seeing the indicator on the screen). |
 | 5 | 0:38 - 0:46 | Alex can use websites with clear focus indicators much more effectively, and avoids sites with no indicators whenever possible. | Back to the website with good focus indicator; we see Alex happier while using the Tab-key and typing away on his computer. |
-
-
