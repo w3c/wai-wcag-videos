@@ -48,7 +48,6 @@ This page provides the script for Success Criterion 2.2.5 of the [WCAG 2 Videos]
 
 * Initial description: Person with dementia logging in again after timeout finds all the previously input data
 * Updated description: [Gopal](https://wai-wcag-videos.netlify.app/overview/#gopal-he), has dementia, logging in again after timeout finds all the previously input data
-* Addresses issues [#4](https://github.com/w3c/wai-wcag-videos/issues/4), [#5](https://github.com/w3c/wai-wcag-videos/issues/5), [#6](https://github.com/w3c/wai-wcag-videos/issues/6), [#7](https://github.com/w3c/wai-wcag-videos/issues/7)
 
 ## Script
 
