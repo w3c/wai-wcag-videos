@@ -53,7 +53,7 @@ This page provides the script for Success Criterion 2.2.5 of the [WCAG 2 Videos]
 
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
-| 1 | 0:00 - 0:07 | Jeffery has mild dementia, which makes it difficult for him to remember certain things right away. | Jeffery (older male) browsing on a tablet computer. He starts looking puzzled and scratches his head. |
+| 1 | 0:00 - 0:07 | Gopal has mild dementia, which makes it difficult for him to remember certain things right away. | Gopal (older male) browsing on a tablet computer. He starts looking puzzled and scratches his head. |
 | 2 | 0:07 - 0:15 | Many websites and apps ask for addresses and other information, and it sometimes takes him a long time to complete all entries. | He puts down the tablet computer, and gets up to look into post-it notes nearby. We see a form on the screen with some entries (home address, shipping address, street, town, ...), which are complete, and other entries (account number or item number) which are not complete. |
 | 3 | 0:15 - 0:24 | Sometimes he is automatically logged out when he takes too long looking up the information to enter. This is very discouraging for him. | Just as he grabs a post-it note and sits back down to continue typing, we see the session expire (he gets logged out automatically). He looks annoyed/frustrated. |
 | 4 | 0:24 - 0:33 | Some websites and apps save the information he has typed before logging him out. When he logs back in, he can continue where he left off. | We see the screen as he logs in again, and the form re-appears with all the data that was previously there. |
