@@ -28,7 +28,7 @@ Feedback is welcome during any stage of the development process. Please [raise i
 - Conciseness (ie. is the script as short as possible?)
 - Realistic (ie. is the script providing a realistic example?)
 - Necessity (ie. is it necessary to cover this requirement as a video?)
-- Description of visuals (ie. does the audio sufficiently describe all important visual information?)
+- Description of visuals (ie. does the audio describe all important visual information?)
 - Readability (ie. reading level, clarity, spelling, grammar, wording, and such aspects)
 
 ### What *Not* to review
