@@ -27,7 +27,7 @@ Feedback is welcome during any stage of the development process. Please [raise i
 - Suggested additions (ie. is the script coverage insufficient?)
 - Conciseness (ie. is the script as short as possible?)
 - Realistic (ie. is the script providing a realistic example?)
-- Necessary (ie. is it necessary to cover this requirement as a video?)
+- Necessity (ie. is it necessary to cover this requirement as a video?)
 - Description of visuals (ie. does the audio sufficiently describe all important visual information?)
 - Readability (ie. reading level, clarity, spelling, grammar, wording, and such aspects)
 
