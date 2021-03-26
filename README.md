@@ -27,6 +27,7 @@ Feedback is welcome during any stage of the development process. Please [raise i
 - Suggested additions (ie. is the script coverage insufficient?)
 - Conciseness (ie. is the script as short as possible?)
 - Realistic (ie. is the script providing a realistic example?)
+- Necessary (ie. is it necessary to cover this requirement as a video?)
 - Spelling, grammar, wording, and other editorial aspects
 
 ### What *Not* to review
