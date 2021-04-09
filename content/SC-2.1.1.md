@@ -1,5 +1,5 @@
 ---
-title: "SC 2.1.1 in WCAG 2 Videos"
+title: "SC 2.1.1 Keyboard in WCAG 2 Videos"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -31,7 +31,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides the script for Success Criterion 2.1.1 of the [WCAG 2 Videos](https://wai-wcag-videos.netlify.app/overview/).
+This page provides the script for Success Criterion 2.1.1 Keyboard of the [WCAG 2 Videos](https://wai-wcag-videos.netlify.app/overview/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
