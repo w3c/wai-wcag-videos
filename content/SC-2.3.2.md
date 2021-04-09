@@ -57,5 +57,5 @@ This page provides the script for Success Criterion 2.3.2 Three Flashes of the [
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
 | 1 | 0:00 - 0:@@ | Manti has photosensitive reactions to certain types of flashing lights, such as strobe lights on the computer screen. | Manti (young female) is sitting in front of a fairly large computer screen. |
-| 2 | 0:00 - 0:@@ | She uses a fairly large computer screen so sometimes videos and even animations could have such flashing or flickering that make her have painful migranes. | We see the computer screen with a large portion of the screen taken up by video playing. We focus on the "Play" button of the video player and the "Play" icon pops up when Manti presses the button. |
-| 3 | 0:00 - 0:@@ | Fortunately her preferred streaming app does not have videos with flashes that cause her to have migranes. | Manti starts a video and is joyfully watching it. |
+| 2 | 0:00 - 0:@@ | She uses a fairly large computer screen so sometimes videos and even animations could have such flashing or flickering that make her have painful migraines. | We see the computer screen with a large portion of the screen taken up by video playing. We focus on the "Play" button of the video player and the "Play" icon pops up when Manti presses the button. |
+| 3 | 0:00 - 0:@@ | Fortunately her preferred streaming app does not use videos with flashes that cause her to have migraines | Manti starts a video and is joyfully watching it. |
