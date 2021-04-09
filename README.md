@@ -2,7 +2,7 @@
 
 This repository contains scripts for short videos explaining WCAG 2 requirements (Success Criteria and Guidelines).
 
-**[Overview on featured personas and WCAG requirements](https://wai-wcag-videos.netlify.app/overview/)**
+**[Persona descriptions and links to video scripts](https://wai-wcag-videos.netlify.app/overview/)**
 
 ## Purpose
 
@@ -14,13 +14,13 @@ The purpose of these videos is to:
 
 The videos are intended to explain the requirement only, in as short time as possible. They are *not* intended to explain the overal benefits of accessibility or of the requirement, exhaustively cover all disabilities and situations, or to explain assistive technologies and adaptive strategies.
 
-**[Requirements analysis and background on this work](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements)**
+**[Requirements analysis and background on these videos](https://www.w3.org/WAI/EO/wiki/Video-Based_Resources/WCAG_Requirements)**
 
 ## Development Process and Feedback
 
-Feedback is welcome during any stage of the development process. Please [raise issues](https://github.com/w3c/wai-wcag-videos/issues/new/) with your feedback and suggestions.
+Feedback is welcome during any stage of the development process. Please [open new GitHub issues](https://github.com/w3c/wai-wcag-videos/issues/new/) with your feedback and suggestions.
 
-**[Overview on maturity stages and available scripts](https://github.com/w3c/wai-wcag-videos/projects/1)**
+**[Status of draft scripts (GitHub Project)](https://github.com/w3c/wai-wcag-videos/projects/1)**
 
 ### What to Review
 
