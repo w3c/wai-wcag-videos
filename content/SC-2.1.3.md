@@ -47,7 +47,7 @@ This page provides the script for Success Criterion 2.1.3 Keyboard (No Exception
 ## Notes
 
 * Initial description: Person with motor disabilities using a mouth stick is not stuck in a form field
-* Updated description: [Brami](https://wai-wcag-videos.netlify.app/overview/#brami-he) is not stuck in a form field using mouth stick to type
+* Updated description: [Niando](https://wai-wcag-videos.netlify.app/overview/#naindo-she) is not stuck in a form field using mouth stick to type
 * Related videos:
     * [Keyboard - Perspectives Video](https://www.w3.org/WAI/perspective-videos/keyboard/)
     * [Speech Recognition - Perspectives Video](https://www.w3.org/WAI/perspective-videos/voice/)
@@ -59,7 +59,7 @@ This page provides the script for Success Criterion 2.1.3 Keyboard (No Exception
 
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
-| 1 | 0:00 - 0:@@ | Niando has muscular dystrophy, which also impacts her arms. She uses voice commands to operate the computer and speech recognition software to type text. [We hear Naindo say the commands "draw line"] | We see Niando who uses a wheelchair with sip-and-puff system. She has a headset and using speech to operate the computer. We the screen with a drawing application and the "draw line" function being started as she speaks the commands. |
+| 1 | 0:00 - 0:@@ | Niando is a middle school student. She has muscular dystrophy, which also impacts her arms. She uses voice commands to operate the computer and speech recognition software to type text. [We hear Naindo say the commands "draw line"] | We see Niando who uses a wheelchair with sip-and-puff system. She has a headset and using speech to operate the computer. We the screen with a drawing application and the "draw line" function being started as she speaks the commands. |
 | 2 | 0:00 - 0:@@ | For this to work properly, applications need to support the keyboard interface. For example, in this drawing application users can draw lines and other shapes using a mouse. | We move across the menu bar with buttons of different shapes -- line, box, triangle, circle, ... |
 | 3 | 0:00 - 0:@@ | But Niando doesn't use a mouse, like many other people for varying reasons. | We see Niando and her setup again. @@@ Maybe also people from other videos if feasible @@@ |
 | 4 | 0:00 - 0:@@ | Luckily this application also provides a sidebar with the coordinates and other properties of the line that Naido wants to draw. Instead of using the mouse, Naido can simply change the coordinates to adjust the line without needing to use a mouse. [We hear Niando dictate the X and Y coordinates for the starting-point of the line] | We see "X" and "Y" coordinates of the "Start" and "End" changing in the "Properties" sidebar, and the line changing accordingly at the coordinates change. |
