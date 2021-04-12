@@ -53,7 +53,7 @@ This page provides the script for Success Criterion 1.3.2 Meaningful Sequence of
 
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
-| 1 | 0:00 - 0:@@ | Preety has substantial difficulty reading due to dyslexia. | Preety is reading a printed book at a desk at home, and appearing to have difficulty with that (eg. following the text with her finger and leaning in to the book). |
+| 1 | 0:00 - 0:@@ | Preety is a middle school student who enjoys literature class in particular. She has substantial difficulty reading due to dyslexia. | Preety is reading a printed book at a desk at home, and appearing to have difficulty with that (eg. following the text with her finger and leaning in to the book). |
 | 2 | 0:@@ - @:@@ | She uses electronic books with text-to-speech software that reads the text and highlights it at the same time. [We hear the screen reader read aloud part of a sentence.] | We see passages of text on a tablet computer, and the individual words are being highlighted one by one as they are read aloud. |
 | 3 | @:@@ - @:@@ | She can read much more quickly when she can hear and see the text at the same time. | We see Preety reading on a tablet computer and looking much more relieved and content. |
 | 4 | @:@@ - @:@@ | Unfortunately, sometimes the reading order isn't coded correctly. The text appears correctly but the reading software jumps around the page in a confusing order. | We see the screen again, and focus on the text highlighting jump from a paragraph to a sidebar instead of to the next paragraph then back again to the next paragraph. Pretty is irritated by this jumping around. |
