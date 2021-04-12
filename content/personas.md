@@ -48,9 +48,7 @@ This page lists the personas available for the WCAG 2 Videos.
 {% include toc.html type="end" %}
 {:/}
 
-## Personas
-
-### Martine (She)
+## Martine (She)
 
 [Martine](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent) from How People with Disabilities Use the Web.
 
@@ -63,7 +61,7 @@ This page lists the personas available for the WCAG 2 Videos.
 
 Featured videos: [SC 1.2.2](https://wai-wcag-videos.netlify.app/sc-1.2.2/)
 
-### Gopal (He)
+## Gopal (He)
 
 [Gopal](https://w3c.github.io/coga/content-usable/#gopal-a-retired-lawyer-with-dementia) from Making Content Usable
 
@@ -74,7 +72,7 @@ Featured videos: [SC 1.2.2](https://wai-wcag-videos.netlify.app/sc-1.2.2/)
 
 Featured videos: [SC 2.2.5](https://wai-wcag-videos.netlify.app/sc-2.2.5/)
 
-### Manti (She)
+## Manti (She)
 
 *No related WAI persona identified.*
 
@@ -86,7 +84,7 @@ Featured videos: [SC 2.2.5](https://wai-wcag-videos.netlify.app/sc-2.2.5/)
 
 Featured videos: [SC 2.3.1](https://wai-wcag-videos.netlify.app/sc-2.3.1/), [SC 2.3.2](https://wai-wcag-videos.netlify.app/sc-2.3.2/), [SC 2.3.3](https://wai-wcag-videos.netlify.app/sc-2.3.3/)
 
-### Alex (He)
+## Alex (He)
 
 [Alex](https://www.w3.org/WAI/people-use-web/user-stories/#reporter) from How People with Disabilities Use the Web.
 
@@ -99,7 +97,7 @@ Featured videos: [SC 2.3.1](https://wai-wcag-videos.netlify.app/sc-2.3.1/), [SC 
 
 Featured videos: [SC 2.1.4](https://wai-wcag-videos.netlify.app/sc-2.1.4/), [SC 2.4.7](https://wai-wcag-videos.netlify.app/sc-2.4.7/)
 
-### Ilya (She)
+## Ilya (She)
 
 [Ilya](https://www.w3.org/WAI/people-use-web/user-stories/#accountant) from How People with Disabilities Use the Web.
 
@@ -111,7 +109,7 @@ Featured videos: [SC 2.1.4](https://wai-wcag-videos.netlify.app/sc-2.1.4/), [SC 
 
 Featured videos: [SC 1.3.1](https://wai-wcag-videos.netlify.app/sc-1.3.1/)
 
-### Preety (She)
+## Preety (She)
 
 [Preety](https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent) from How People with Disabilities Use the Web.
 
@@ -124,7 +122,7 @@ Featured videos: [SC 1.3.1](https://wai-wcag-videos.netlify.app/sc-1.3.1/)
 
 Featured videos: [SC 1.3.2](https://wai-wcag-videos.netlify.app/sc-1.3.2/), [SC 1.3.5](https://wai-wcag-videos.netlify.app/sc-1.3.5/)
 
-### Kaseem (She)
+## Kaseem (She)
 
 [Kaseem](https://www.w3.org/WAI/people-use-web/user-stories/#teenager) from How People with Disabilities Use the Web.
 
@@ -142,7 +140,7 @@ Featured videos: [SC 1.3.2](https://wai-wcag-videos.netlify.app/sc-1.3.2/), [SC 
 
 Featured videos: [SC 1.3.3](https://wai-wcag-videos.netlify.app/sc-1.3.3/)
 
-### Jan (He)
+## Jan (He)
 
 *No related WAI persona identified.*
 
@@ -153,7 +151,7 @@ Featured videos: [SC 1.3.3](https://wai-wcag-videos.netlify.app/sc-1.3.3/)
 
 Featured videos: [SC 1.3.4](https://wai-wcag-videos.netlify.app/sc-1.3.4/)
 
-### Niando (She)
+## Niando (She)
 
 *No related WAI persona identified.*
 
@@ -163,7 +161,7 @@ Featured videos: [SC 1.3.4](https://wai-wcag-videos.netlify.app/sc-1.3.4/)
 
 Featured videos: [SC 2.1.1](https://wai-wcag-videos.netlify.app/sc-2.1.1/), [SC 2.1.3](https://wai-wcag-videos.netlify.app/sc-2.1.3/)
 
-### Brami (He)
+## Brami (He)
 
 *No related WAI persona identified.*
 
@@ -172,7 +170,7 @@ Featured videos: [SC 2.1.1](https://wai-wcag-videos.netlify.app/sc-2.1.1/), [SC 
 
 Featured videos: [SC 2.1.2](https://wai-wcag-videos.netlify.app/sc-2.1.2/)
 
-### Xeena (He)
+## Xeena (He)
 
 *No related WAI persona identified.*
 
