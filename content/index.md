@@ -9,7 +9,7 @@ github:
   path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /Overview/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 
-ref: /link/to/page/   # Translators, do not change this
+ref: /Overview/   # Translators, do not change this
 changelog: /@@/changelog/
 acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 license: creative-commons   # NEW: delete if not creative-commons
@@ -31,7 +31,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page lists the scripts available for the WCAG 2 Videos, and the personas featured in these scripts. Use the [template file](https://wai-wcag-videos.netlify.app/sc-x.y.z/) to create new scripts.
+This page lists the scripts available for the WCAG 2 Videos. Use the [template file](https://wai-wcag-videos.netlify.app/sc-x.y.z/) to create new scripts. See also [all personas featured](https://wai-wcag-videos.netlify.app/personas/) in these video scripts.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -47,118 +47,6 @@ This page lists the scripts available for the WCAG 2 Videos, and the personas fe
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
-
-## Personas
-
-### Martine (She)
-
-[Martine](https://www.w3.org/WAI/people-use-web/user-stories/#onlinestudent) from How People with Disabilities Use the Web.
-
-* 62 years old
-* Hard of hearing
-* Since birth
-* Can hear some sounds
-* Wears hearing aid
-* Uses captions
-
-### Gopal (He)
-
-[Gopal](https://w3c.github.io/coga/content-usable/#gopal-a-retired-lawyer-with-dementia) from Making Content Usable
-
-* Older male
-* Mild dimentia
-* Difficulty remembering certain things right away
-* Uses post-it notes
-
-### Manti (She)
-
-*No related WAI persona identified.*
-
-* Young female
-* Vestibular disorder
-* Photosensitivety
-* Migranes from flashing/flickering content
-* Nauseous and dizzy from certain types of animations
-
-### Alex (He)
-
-[Alex](https://www.w3.org/WAI/people-use-web/user-stories/#reporter) from How People with Disabilities Use the Web.
-
-* Working as reporter since 20 years
-* Repetitive strain injury
-* Painful to use a mouse and to type for extended periods of time
-* Uses an ergonomic keyboard
-* Uses Tab-key to navigate
-* Uses speech recognition
-
-### Ilya (She)
-
-[Ilya](https://www.w3.org/WAI/people-use-web/user-stories/#accountant) from How People with Disabilities Use the Web.
-
-* Senior accountant
-* Blind
-* Does *not* use Braille
-* Uses screen reader
-* Uses mobile phone
-
-### Preety (She)
-
-[Preety](https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent) from How People with Disabilities Use the Web.
-
-* Middle school student
-* Attention defecit hyperactivity disorder
-* Dyslexia
-* Dyscalculia (added here; not mentioned in How People with Disabilities Use the Web)
-* Substantial difficulty reading
-* Uses text-to-speech with text highlight
-
-### Kaseem (She)
-
-[Kaseem](https://www.w3.org/WAI/people-use-web/user-stories/#teenager) from How People with Disabilities Use the Web.
-
-* Teenager
-* Deaf and (legally) blind
-* Uses screen magnification
-* Uses screen reader
-* Uses portable Braille notetaker
-* Uses Braille
-* Does *not* use sign-language
-* Uses large computer screen
-* Uses high contrast (luminosity/brightness)
-* Uses mobile phone
-* Uses indoor navigation
-
-### Jan (He)
-
-*No related WAI persona identified.*
-
-* Cerebral palsy
-* Uses tablet mounted on wheelchair
-* Uses power chair
-* Has personal assistant
-
-### Niando (She)
-
-*No related WAI persona identified.*
-
-* Muscular Dystrophy
-* Uses sip-and-puff system
-* Uses speech recognition
-
-### Brami (He)
-
-*No related WAI persona identified.*
-
-* Quadriplegic
-* Uses mouth stick to type
-
-### Xeena (He)
-
-*No related WAI persona identified.*
-
-* School age
-* Language processing disability
-* Uses Augmentative and Alternative Communication (AAC) symbols
 
 ## 1. Perceivable
 
