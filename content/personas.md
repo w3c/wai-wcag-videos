@@ -31,7 +31,7 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page lists the personas available for the WCAG 2 Videos.
+This page lists the personas featured in the [WCAG 2 Videos](https://wai-wcag-videos.netlify.app/overview/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
