@@ -53,9 +53,7 @@ This page provides the script for Success Criterion 1.3.4 Orientation of the [WC
 
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
-| 1 | 0:00 - 0:@@ | Jan has cerebral palsy, which, in his case, limits his mobility including use of his arms. | Jan is using a wheelchair (power chair) with a headrest and seatbelt to support him from the involuntary movement of his arms and legs. |
-| 2 | 0:@@ - @:@@ | He has a stand for his tablet computer, where he can switch between portrait and landscape orientation. This makes it easier for him to use different apps. | We zoom out to see Jan is sitting at a table with a tablet computer mounted to a stand. He pushes the corner of the tablet and it rotates on that stand. |
-| 3 | @:@@ - @:@@ | For example, the landscape orientation allows for longer sentences, which he finds more comfortable for reading articles. | We see the tablet screen as it rotates, and the app changes display to provide longer sentences. Jan is reading an article. |
-| 4 | @:@@ - @:@@ | However, when he is out and about, the tablet is fixed on his wheelchair and he cannot change its orientation. | We see a personal assistant remove the tablet from the stand and mount it to the wheelchair, and Jan leaves in his power chair. |
-| 5 | @:@@ - @:@@ | This newspaper app only works in portrait orientation, so Jan can not read the articles when the tablet is mounted on his wheelchair. | We see the screen mounted in landscape orientation with the text in a newspaper app appearing in portrait (sideways for him). |
-| 6 | @:@@ - @:@@ | Fortunately his favorite newspaper app works well in both orientations, and does not require him to use any particular one. | We see Jan switching to another newspaper app that works well in landscape orientation while Jan is cruising away. |
+| 1 | 0:00 - 0:@@ | Jan has cerebral palsy, which, in his case, means limited use of his arms. | Jan is using a wheelchair (power chair) with a headrest and seatbelt to support him from the involuntary movement of his arms and legs. |
+| 2 | @:@@ - @:@@ | Jan uses a tablet mounted on his wheelchair, where he cannot change its orientation. | We zoom in on the tablet mounted to his wheelchair. |
+| 3 | @:@@ - @:@@ | Unfortunately some apps only work in portrait orientation, so Jan can not read the articles when the tablet is mounted on his wheelchair. | We see the screen mounted in landscape orientation with the text in an app appearing in portrait (sideways for him). |
+| 4 | @:@@ - @:@@ | Apps work well for Jan when they do not require him to use any particular orientation. | We see Jan switching to another app that works well in landscape orientation. |
