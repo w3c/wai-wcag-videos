@@ -53,7 +53,7 @@ This page provides the script for Success Criterion 1.3.4 Orientation of the [WC
 
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
-| 1 | 0:00 - 0:@@ | Jan has cerebral palsy, which, in his case, means limited use of his arms. | Jan is using a wheelchair (power chair) with a headrest and seatbelt to support him from the involuntary movement of his arms and legs. |
+| 1 | 0:00 - 0:@@ | Jan has cerebral palsy, which, in his case, means limited use of his arms. | Jan is using a wheelchair, possibly power chair with a headrest and seatbelt to support him from the involuntary movement of his arms and legs. |
 | 2 | @:@@ - @:@@ | Jan uses a tablet mounted on his wheelchair. In his case it is fixed to landscape orientation and he cannot change this orientation. | We zoom in on the tablet mounted to his wheelchair. |
-| 3 | @:@@ - @:@@ | Unfortunately some apps only work in portrait orientation, so Jan can not read the articles when the tablet is mounted on his wheelchair. | We see the screen mounted in landscape orientation with the text in an app appearing in portrait (sideways for him). |
-| 4 | @:@@ - @:@@ | Apps work well for Jan when they do not require him to use any particular orientation. Such apps work for him while he is using the wheelchair and elsewhere. | We see Jan switching to another app that works well in landscape orientation. |
+| 3 | @:@@ - @:@@ | Unfortunately some apps only work in portrait orientation, so Jan can not read the articles when the tablet is mounted on his wheelchair in landscape orientation. | We see the screen mounted in landscape orientation with the text in an app appearing in portrait (sideways for him). |
+| 4 | @:@@ - @:@@ | Apps work well for Jan when they do not require him to use any particular orientation. | We see Jan switching to another app that works well in landscape orientation. |
