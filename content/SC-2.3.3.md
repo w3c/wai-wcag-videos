@@ -56,7 +56,7 @@ This page provides the script for Success Criterion 2.3.3 Animation from Interac
 
 | Scene | Time | Audio | Visual |
 | ----- | ---- | ----- | ------ |
-| 1 | 0:00 - 0:08 | Manti has a condition called vestibular disorder, which makes her nauseous and dizzy from certain types of animations. | Manti (young female) is using her mobile app outside while on the go. |
-| 2 | 0:00 - 0:15 | The swiveling icons that appear when she presses buttons on this app is an example of such animations. | Zoom onto the screen of the mobile phone. We see search results and a "Next" button at the bottom. Focus on the button and we see her thumb pressing it. Some of the animation starts but not all of it, to avoid reaction for viewers with sensitivities. |
-| 3 | 0:00 - 0:23 | Some types of animations can cause serious reactions, including migranes and seizures. | We see her moving her head away from the screen and turning the phone to avoid the animation. |
+| 1 | 0:00 - 0:08 | Manti has vestibular disorder. Some types of animations make her nauseous and dizzy. | Manti (young female) is using a mobile app. |
+| 2 | 0:00 - 0:15 | The swiveling icons that appear when she presses buttons on this app is an example of such dangerous animations. | Zoom onto the screen of the mobile phone. We see search results and a "Next" button at the bottom. Focus on the button and we see her thumb pressing it. Some of the swiveling animation starts but not all of it, to avoid reaction for viewers with sensitivities. |
+| 3 | 0:00 - 0:23 | Some types of animations can cause serious reactions, including migranes and seizures. | We see her moving her head away from the screen (in discomfort) and turning the phone to avoid the animation. |
 | 4 | 0:00 - 0:31 | Fortunately Manti found a setting in the app to turn off such unnecessary animations. | Back to the screen, with Manti using a "turn animations off" toggle to switch off animations. |
