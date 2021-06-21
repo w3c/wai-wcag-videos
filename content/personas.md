@@ -116,11 +116,10 @@ Featured videos: [SC 1.3.1](https://wai-wcag-videos.netlify.app/sc-1.3.1/)
 * Middle school student
 * Attention defecit hyperactivity disorder
 * Dyslexia
-* Dyscalculia (added here; not mentioned in How People with Disabilities Use the Web)
 * Substantial difficulty reading
 * Uses text-to-speech with text highlight
 
-Featured videos: [SC 1.3.2](https://wai-wcag-videos.netlify.app/sc-1.3.2/), [SC 1.3.5](https://wai-wcag-videos.netlify.app/sc-1.3.5/)
+Featured videos: [SC 1.3.2](https://wai-wcag-videos.netlify.app/sc-1.3.2/)
 
 ## Kaseem (She)
 
@@ -179,3 +178,13 @@ Featured videos: [SC 2.1.2](https://wai-wcag-videos.netlify.app/sc-2.1.2/)
 * Uses Augmentative and Alternative Communication (AAC) symbols
 
 Featured videos: [SC 1.3.6](https://wai-wcag-videos.netlify.app/sc-1.3.6/)
+
+## Jonathan (He)
+
+[Jonathan](https://w3c.github.io/coga/content-usable/#jonathan-a-therapist-with-dyscalculia) from Making Content Usable
+
+* Adult male
+* Dyscalculia
+* Difficulty remembering PIN numbers and passwords with numbers
+
+Featured videos: [SC 1.3.5](https://wai-wcag-videos.netlify.app/sc-1.3.5/)
